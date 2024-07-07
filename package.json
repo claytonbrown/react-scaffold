@@ -32,7 +32,7 @@
     "react": "0.13.3",
     "react-router": "0.13.3",
     "source-map-support": "0.3.2",
-    "superagent": "1.2.0"
+    "superagent": "9.0.0"
   },
   "devDependencies": {
     "autoprefixer-core": "^5.2.0",
